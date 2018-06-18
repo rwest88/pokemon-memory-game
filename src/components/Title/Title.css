@@ -2,7 +2,16 @@
   width: 100%;
   text-align: center;
   font-size: 3rem;
-  text-decoration: underline;
-  color: #2A77AE;
-  margin-bottom: 50px;
+  /* text-decoration: underline; */
+  color: #040c21;
+  margin-top: 75px;
+  margin-bottom: 15px;
+  /* padding: 100px; */
+}
+
+@media screen and (max-width: 471px) {
+  .title {
+    margin-top: 63px;
+    margin-bottom: 25px;
+  }
 }
